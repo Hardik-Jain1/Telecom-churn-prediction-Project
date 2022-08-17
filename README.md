@@ -1,4 +1,6 @@
 # Telecom-churn-prediction-Project
+![image](https://user-images.githubusercontent.com/100846110/185218257-33628ce6-bc79-44b6-b5ef-45273c66c30f.png)
+
 ## Objective:
 The objective is to predict to a high accuracy, in advance the customers who may attrite from the existing service provider in near future.
 
