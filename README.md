@@ -14,7 +14,7 @@ Independent variables: 17 Categorical and 3 Continuous
 Dependent Target variable: “Churn”
 
 Churn Rate (Baseline) is 26.5%
-## Model Summery:
+## Model Summary:
 Multiple models within each type are built and Optimal model is  selected for comparison
 
 1.) Logistic Regression: 12 significant variables are selected by forward exhaustive method.
@@ -35,7 +35,26 @@ Multiple models within each type are built and Optimal model is  selected for co
              
              b.)Increase in “Monthly charges”, increase in “Churn”
              
-8.) Ensemble of “Neural Network” & “Naive Bayes” has highest “Sensitivity”. 
+8.) Ensemble of “Neural Network” & “Naive Bayes” has highest “Sensitivity”.
+## Conclusion:
+1.) Significant variables impacting “Churn”:  Type & Tenure of Contract
+
+2.) Churn is observed to be high for customers:
+
+   a.) Without dependents
+   
+   b.) With high cost Phone Services
+   
+   c.) Having single line service (no combo services)
+   
+3.) Recommendation to Business Team for retaining Customer
+
+   a.) Targeted Customer Promotion
+   
+   b.) Promote Long Term contract
+   
+   c.) Market more products as Combo (multi) service offering
+
 
 Thank You
 
