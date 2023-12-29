@@ -55,7 +55,7 @@ Multiple models within each type are built and Optimal model is  selected for co
    
    b.) Promote Long Term contract
    
-   c.) Market more products as Combo (multi) service offering
+   c.) Market more products as Combo (multi) service offering 
 
 
 Thank You
